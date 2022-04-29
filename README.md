@@ -1,2 +1,3 @@
-# react-todo-app
-first react project UwU
+# TODO LIST
+
+my first react app project :)

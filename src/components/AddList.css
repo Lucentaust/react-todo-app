@@ -1,0 +1,29 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(255, 255, 255);
+    color: rgb(19, 19, 19);
+    width: 100%;
+    padding: 0.8em 1em;
+    margin-bottom: 1em;
+}
+
+.list > p {
+    font-size: 1.2rem;
+}
+
+.fa-xmark {
+    cursor: pointer;
+}
+
+.fa-xmark:hover {
+    color: rgb(245, 83, 83);
+}
+
+.format-text {
+   display: block;
+   max-width: 50%;
+   word-wrap: break-word;
+}
