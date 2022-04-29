@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-todo-app/static/css/main.b0f89e06.css",
+    "main.js": "/react-todo-app/static/js/main.11eec4dd.js",
+    "static/js/787.2843ca88.chunk.js": "/react-todo-app/static/js/787.2843ca88.chunk.js",
+    "static/media/tomoko-uji-qzoSJlPxS9k-unsplash.jpg": "/react-todo-app/static/media/tomoko-uji-qzoSJlPxS9k-unsplash.2c133a00506637608207.jpg",
+    "index.html": "/react-todo-app/index.html",
+    "main.b0f89e06.css.map": "/react-todo-app/static/css/main.b0f89e06.css.map",
+    "main.11eec4dd.js.map": "/react-todo-app/static/js/main.11eec4dd.js.map",
+    "787.2843ca88.chunk.js.map": "/react-todo-app/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f89e06.css",
+    "static/js/main.11eec4dd.js"
+  ]
+}
